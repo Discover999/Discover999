@@ -2,9 +2,9 @@
 
 ![Metrics](https://metrics.lecoq.io/Discover999?template=classic&base.metadata=0&base.indepth=false&base.hireable=false&config.timezone=Asia%2FShanghai)
 
-[![Wang's GitHub stats](https://github-readme-stats.vercel.app/api?username=Discover999)](https://github.com/anuraghazra/github-readme-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Discover999&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Wang's GitHub stats](https://github-readme-stats.vercel.app/api?username=Discover999)](https://github.com/anuraghazra/github-readme-stats)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Discover999&theme=blueberry&date_format=%5BY.%5Dn.j&locale=zh)](https://git.io/streak-stats)
 
