@@ -23,14 +23,19 @@
 
   [<span><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=discover999&layout=compact" height=145/></span>
   <span><img src="https://github-readme-stats.vercel.app/api?username=discover999&layout=compact&count_private=true&show_icons=true" height=145/></span>](https://github.com/Discover999/)
+  
+<br>
+<div align="center">
+  <img 
+       src="http://github-readme-streak-stats.herokuapp.com?user=Discover999&theme=blueberry&date_format=%5BY.%5Dn.j&locale=zh"
+       align="center"/>
+</div>
 
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Discover999&theme=blueberry&date_format=%5BY.%5Dn.j&locale=zh)](https://git.io/streak-stats)
-
+<br>
 <div align="center">
   <a href="https://gcore.jsdelivr.net/gh/Discover999/TyporaPic@master/pay.jpg" target="_blank" style="display: inline-block;">
     <img
         src="https://img.shields.io/badge/Donate-BUY%20ME%20A%20COFFEE-blue?style=for-the-badge&logo=BuyMeACoffee&logoColor=FEFEFE"
-        align="center"
-    />
+        align="center"/>
   </a>
 </div>
