@@ -21,7 +21,16 @@
 - 🌱 I’m currently learning: 
 
 
-  [<span><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=discover999&layout=compact" height=145/></span><span><img src="https://github-readme-stats.vercel.app/api?username=discover999&layout=compact&count_private=true&show_icons=true" height=145/></span>](https://github.com/Discover999/)
+  [<span><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=discover999&layout=compact" height=145/></span>
+  <span><img src="https://github-readme-stats.vercel.app/api?username=discover999&layout=compact&count_private=true&show_icons=true" height=145/></span>](https://github.com/Discover999/)
 
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Discover999&theme=blueberry&date_format=%5BY.%5Dn.j&locale=zh)](https://git.io/streak-stats)
 
+<div align="center">
+  <a href="https://raw.githubusercontent.com/all-smile/nav/master/static/images/buymeacoffee.jpg" target="_blank" style="display: inline-block;">
+    <img
+        src="https://img.shields.io/badge/Donate-BUY%20ME%20A%20COFFEE-blue?style=for-the-badge&logo=BuyMeACoffee&logoColor=FEFEFE"
+        align="center"
+    />
+  </a>
+</div>
