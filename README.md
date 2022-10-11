@@ -26,9 +26,10 @@
   
 <br>
 <div align="center">
-  <img 
-       src="http://github-readme-streak-stats.herokuapp.com?user=Discover999&theme=blueberry&date_format=%5BY.%5Dn.j&locale=zh"
-       align="center"/>
+  <a href="https://github.com/Discover999/" target="_blank" style="display: inline-block;">
+    <img 
+         src="http://github-readme-streak-stats.herokuapp.com?user=Discover999&theme=blueberry&date_format=%5BY.%5Dn.j&locale=zh"
+         align="center"/>
 </div>
 
 <br>
