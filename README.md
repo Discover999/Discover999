@@ -38,12 +38,9 @@
   [![React Native](https://img.shields.io/badge/React_Native-20232A?logo=react&logoColor=61DAFB)](https://blog.i-xiao.space/)
   [![Kubernetes](https://img.shields.io/badge/-Kubernetes-F5F5F5?logo=Kubernetes&logoColor=316CE6)](https://blog.i-xiao.space/)
 
-  [<span><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=discover999&layout=compact" height=145/></span><span><img src="https://github-readme-stats.vercel.app/api?username=discover999&count_private=true&show_icons=true" height=145/></span>](https://github.com/Discover999/)
+  [<span><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=discover999&layout=compact" height=145/></span><span><img src="https://github-readme-stats.vercel.app/api?username=discover999&layout=compact&count_private=true&show_icons=true" height=145/></span>](https://github.com/Discover999/)
 
 
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Discover999&theme=blueberry&date_format=%5BY.%5Dn.j&locale=zh)](https://git.io/streak-stats)
 
-[![Wang's GitHub stats](https://github-readme-stats.vercel.app/api?username=Discover999)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Discover999&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
