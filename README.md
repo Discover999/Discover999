@@ -2,7 +2,7 @@
 
 ### _Hi there 👋, I'm Wang._  
 
-#### Welcome, You are my [![Visitor Count](https://profile-counter.glitch.me/discover999/count.svg)](https://blog.i-xiao.space/) visitor, Thank You!🎉🎉  
+#### Welcome, You are my [![Visitor Count](https://profile-counter.glitch.me/1/count.svg)](https://blog.i-xiao.space/) visitor, Thank You!🎉🎉  
 
 - 🚀 I use daily: 
   [![JavaScript](https://img.shields.io/badge/JavaScript-000000?logo=JavaScript&logoColor=FFCA28)](https://blog.i-xiao.space/)
