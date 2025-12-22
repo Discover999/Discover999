@@ -39,7 +39,7 @@
 </div> -->
 
 <br>
-<div align="center" hidden="true">
+<div align="center" visibility="hidden">
   <a href="https://gcore.jsdelivr.net/gh/Discover999/TyporaPic@master/pay.jpg" target="_blank" style="display: inline-block;">
     <img
         src="https://img.shields.io/badge/Donate-BUY%20ME%20A%20COFFEE-blue?style=for-the-badge&logo=BuyMeACoffee&logoColor=FEFEFE"
