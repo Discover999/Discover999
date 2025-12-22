@@ -2,7 +2,7 @@
 
 ### _Hi there 👋, I'm Wang._  
 
-#### Welcome, You are my [![Visitor Count](https://profile-counter.glitch.me/1/count.svg)](https://github.com/Discover999/) visitor, Thank You!🎉🎉  
+#### Welcome!🎉🎉  
 
 - 🚀 I use daily: 
   [![Vue](https://img.shields.io/badge/Vue.js-35495E?logo=vue.js&logoColor=4FC08D)](https://github.com/Discover999/)
