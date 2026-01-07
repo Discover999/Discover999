@@ -12,7 +12,7 @@
   <span><img src="https://github-readme-stats-zeta-ten-33.vercel.app/api?username=discover999&layout=compact&count_private=true&show_icons=true" height=145/></span>
 </div>
   
-<!--   [<span><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=discover999&layout=compact" height=145/></span>
+<!--   [<span><img src="https://github-readme-stats-e6dz9zlju-discover999s-projects.vercel.app/api/top-langs/?username=discover999&layout=compact" height=145/></span>
   <span><img src="https://github-readme-stats.vercel.app/api?username=discover999&layout=compact&count_private=true&show_icons=true" height=145/></span>](https://github.com/Discover999/) -->
   
 <br>
